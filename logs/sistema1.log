@@ -1,0 +1,7 @@
+2026-03-01 08:00:00 INFO Sistema iniciado
+2026-03-01 08:05:12 WARNING Memória acima de 80%
+2026-03-01 08:10:45 ERROR Falha na conexão com banco de dados
+2026-03-01 08:12:30 INFO Usuário logado
+2026-03-01 08:15:00 INFO Tarefa concluída
+2026-03-01 08:20:10 WARNING CPU acima de 90%
+2026-03-01 08:25:00 ERROR Falha ao enviar e-mail
