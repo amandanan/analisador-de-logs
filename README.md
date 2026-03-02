@@ -23,7 +23,7 @@ Neste projeto, os arquivos de log são processados de forma automatizada, gerand
 ---
 
 ## 📁 Estrutura do Projeto
-
+```text
 analisador-de-logs/
 │
 ├─ logs/ ← Coloque seus arquivos .log aqui
@@ -32,7 +32,7 @@ analisador-de-logs/
 │
 ├─ analisador.py ← Script principal
 └─ README.md ← Este arquivo
-
+```
 
 ---
 
